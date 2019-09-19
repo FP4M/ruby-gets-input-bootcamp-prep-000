@@ -1,4 +1,4 @@
-def greeting (name)
+def greeting (name).
 
 require_relative '../lib/hello_ruby_programmer.rb'
 
